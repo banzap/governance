@@ -1,7 +1,7 @@
 {
   "name": "@ensdomains/governance",
   "version": "1.0.0",
-  "description": "LALA Governance Contracts",
+  "description": "LALALA Governance Contracts",
   "main": "index.js",
   "scripts": {
     "test": "hardhat test"
